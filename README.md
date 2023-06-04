@@ -4,6 +4,7 @@
 - 💞️ I am not looking to collaborate on anything at the moment, just trying to progress in many things!
 - 📫 How to reach me? alex.h.preston@gmail.com is my email!
 - 📖 I am trying to figure out what class of programming I like most, and these repositories are mostly for increasing skill.
+(although some I actually use)
 
 <!---
 pkncoder/pkncoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
