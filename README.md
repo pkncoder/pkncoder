@@ -1,11 +1,15 @@
 - 👋 Hello, my name is pkncoder, I go by they/them, and I am (primarily) a Python developer.
+  
 - 👀 I am currently interested in Speedcubing, Astrophysics, Quantum Physics, and coding. All progressing in each!
+  
 - 🌱 I am currently learning HTML, CSS, and possibly Javascript for proceeding on my own website!
-     Also working on Java, as I ended up taking an AP class, hoping it was Python. (it wasn't). So now I am learning Java.
-     Finnally, I am also trying to progress in Python, thankfully I have a couple of good sources!
+     - Also working on Java, as I ended up taking an AP class, hoping it was Python. (it wasn't). So now I am learning Java.
+     - Finnally, I am also trying to progress in Python, thankfully I have a couple of good sources!
   
 - 💞️ I am not looking to collaborate on anything at the moment, just trying to progress in many things!
+  
 - 📫 How to reach me? alex.h.preston@gmail.com is my email!
+  
 - 📖 I am trying to figure out what class of programming I like most, and these repositories are mostly for increasing skill.
 (although some I actually use)
 
