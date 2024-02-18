@@ -11,3 +11,5 @@
 - 🌱 I am currently learning how to code in Java, thankfully, I do have an AP Class that is helping me write code, and understand other concepts
 
 - 🤝 I contribute to the Pirates FRC Robotics team (7165) by being the only student programmer in our team
+
+- 💻 I have a personal website that I work on personally at https://pkncoder.github.io
