@@ -1,4 +1,6 @@
 - 👋 Hello, my name is pkncoder, I go by they/them, and I am (primarily) a Python developer
+
+- 📓 My email is alex.h.preston@gmail.com
   
 - 👀 I am interested in learning much about coding to live up to my father, but not just code that works, but is efficient and readable
 
