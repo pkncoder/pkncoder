@@ -9,8 +9,9 @@
     - Javascript
     - HTML
     - CSS
+    - BASH
 
-- 🌱 I am interesting in learning many different languages. Currently I am learning Java from my AP CS A class, and learning BASH scripting for terminal control and CLI's
+- 🌱 I am interesting in learning many different languages. Currently I am learning Java from my AP CS A class!
 
 - 🤝 I contribute to the Pirates FRC Robotics team (7165) by being the only student programmer in our team
 
