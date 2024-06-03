@@ -1,18 +1,17 @@
-- 👋 Hello, my name is pkncoder, I go by they/them, and I am (primarily) a Python developer
+- 👋 Hello, my name is pkncoder, I go by she/her, and I am a developer that doesn't really know what they do.
 
 - 📓 My email is alex.h.preston@gmail.com
   
-- 👀 I am interested in learning much about coding to live up to my father, but not just code that works, but is efficient and readable
+- 👀 I am currently programming to one day, hopefully, reach a job in some area of computer science.
 
-- 📖 Some of the languages that I am confortable writing in include:
+- 📖 Some of the languages / script languages that I am confortable writing in include:
     - Python
+    - Java
     - Javascript
     - HTML
     - CSS
     - BASH
 
-- 🌱 I am interesting in learning many different languages. Currently I am learning Java from my AP CS A class!
+- 🌱 I am interested in learning multiple languages so I have anything I need at my disposal, some languages I might look into include ASM and C (for peak efficiency)
 
-- 🤝 I contribute to the Pirates FRC Robotics team (7165) by being the only student programmer in our team
-
-- 💻 I have a personal website that I work on personally at https://pkncoder.github.io
+- 💻 I have a personal website that I work on personally at https://pkncoder.github.io (currently still in development processes)
