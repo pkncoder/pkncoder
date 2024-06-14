@@ -7,7 +7,7 @@ Hello, I am pkncoder! I am a solo 'developer' that is trying to learn as much as
 2. [Contributions](#contributions)
 3. [Languages](#languages)
 	1. [Known Languages](#knownlanguages)
-	2. [Langauges on my Radar](#radarlangauges)
+	2. [Langauges on my Radar](#radarlanguages)
 4. [Projects](#projects)
 5. [Kia's Cottage](#kiascottage)
 
