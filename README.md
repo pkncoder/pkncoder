@@ -1,6 +1,6 @@
 # Welcome
 
-Hello, I am pkncoder! I am a solo 'developer' that is trying to learn as much as I can. I strive to make professional, efficient, and readable code so I can live up to my father.
+Hi there! I'm Kia! I enjoy learning and making as many interesting programs that I can find. From way to large robots to Nintendo 3DS apps I like poking around in it.
 
 ## Hyperlinks of Contents
 1. [More About Me](#moreaboutme)
@@ -12,10 +12,10 @@ Hello, I am pkncoder! I am a solo 'developer' that is trying to learn as much as
 5. [Kia's Cottage](#kiascottage)
 
 ## More About Me <a name="moreaboutme"></a>
-As I said, my username is pkncoder, however my name is Kia. I use (she/her) pronouns. And currently attend Perkins High School.
+As I said, my name is Kia, but my username here is pknocder. Fun fact! My username came from my steam account's randomly generated username as "pkngamer," and I have molded that username to lots of things (pkner being the un-specialized one).
 
 ## Contributions <a name="contributions"></a>
-I currently only contribute to the Perkins Pirates FRC Robotics (7165) team as a programmer for our robot. I would like to use programming more in my community.
+I currently work with the Perkins Pirates Robotics team. We go to First Robotics Competitions (FRC) under the ID number 7165. I help by programming the robot and trying to make a breadcrum path for any future programmers!
 
 ## Languages <a name="languages"></a>
 I know a variety of programming languages, and don't plan on stopping on learning more! Also, I am including scripting and web languages since I do still use them, and are scattered around my code files!
@@ -23,11 +23,12 @@ I know a variety of programming languages, and don't plan on stopping on learnin
 ### Known Languages <a name="knownlanguages"></a>
 - Python
 - Java
-- JavaScript
-- HTML 5
-- CSS
-- Bash
-- C++ (still learning)
+- C++
+- A bit of Rust
+- The usual "not actually programming languages" of HTML/CSS/JS
+- Swift (spesifically Apple's Swift UI package)
+- Metal
+- GLSL
 
 ### Languages On My Radar <a name="radarlanguages"></a>
 - Rust
@@ -40,7 +41,9 @@ I always have some sort of project going on, and a code file full of possible ot
 <br>
 My current project(s) are:
 - <a href="https://pkncoder.github.io">Kia's Cottage</a> (never ending)
-- DnD Monster Fight / DnD Encounter Simulation
+- Our new robot for the Perkins Pirates Robotics Team
+- App for teaching how games make fancy scenes through materials from brick to glass ball
+- 3DS app programming
 
 ## Kia's Cottage <a name="kiascottage"></a>
 I like to outline this project of mine, since it is fairly important to me.
